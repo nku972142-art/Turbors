@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://${RAILWAY_PUBLIC_DOMAIN}/sitemap.xml
